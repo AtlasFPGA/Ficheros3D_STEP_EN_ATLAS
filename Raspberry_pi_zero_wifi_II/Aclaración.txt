@@ -1,0 +1,1 @@
+Fichero step usado para el ensamble de ATLAS MINI.
