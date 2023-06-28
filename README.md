@@ -32,6 +32,13 @@ Visualización modelo CYC1000 con PMOD cambiado a PINHEARER 2x8:
 
 ---
 
+Añadidos los mosfet BSS138 para realizar una traducción de nivel de las señales I2C
+![Añadidos los mosfet BSS138](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/Detalle%20de%20la%20Captura%20de%20pantalla%20donde%20se%20ven%20los%20diodos%20mosfet%20para%20adaptar%20los%20niveles%20de%20tensi%C3%B3n%20del%20bus%20i2c%20de%202023-06-28%2013-06-30.png)
 
+---
+
+Nuevo diseño de ATLAS MINI sin cambiar el formato y con diversas mejoras:
+
+![Nuevo diseño de ATLAS MINI](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/Captura%20de%20pantalla%20de%20la%20ATLAS%20MINI%20MEJORADA%20I2C%20y%20SDIO%202023-06-28%2012-24-34.png)
 
 ---
