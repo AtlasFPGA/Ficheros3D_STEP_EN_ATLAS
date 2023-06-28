@@ -28,7 +28,7 @@ Visualización modelo Raspberry PI Zero II:
 ---
 
 Visualización modelo CYC1000 con PMOD cambiado a PINHEARER 2x8:
-![CYC1000 con PMOD cambiado a PINHEARER 2x8](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/Captura%20de%20pantalla%20FreeCAD%20%20del%202023-06-28%2012-09-28.png)
+![CYC1000 con PMOD cambiado a PINHEARER 2x8](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/Captura%20de%20pantalla%20FreeCAD%20%20de%20la%20placa%20CYC1000%20PARA%20USO%20DE%20LA%20ATLAS%20MINI%20para%20montaje%20carcasa%20%202023-06-28%2012-09-28.png)
 
 ---
 
