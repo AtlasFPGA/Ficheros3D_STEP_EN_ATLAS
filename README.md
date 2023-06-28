@@ -7,6 +7,17 @@ Otro de los objetivos de esta entrada es disponer de modelos tridimensionales pa
 
 Se muestra un diseño mejorado de la ROJA, en el pantallazo de Kicad, en la que se ve que hay soporte SIO en el bus SBC, el uso de dos mosfet BSS138 para tener una señal I2C en el bus de video digital, y no dañar placas con tensiones de referencia de +3V3, dado que el bus digital usa una tensión de +5V.
 
+
+---
+
+Ensamblaje:
+![Ensamblaje ATLAS MINI1](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/ATLAS_MINI_LA_ROJA_FINAL_A-PERSPECTIVA1.png)
+
+
+Ensamblaje:
+![Ensamblaje ATLAS MINI3](https://github.com/AtlasFPGA/Ficheros3D_STEP_EN_ATLAS/blob/main/FOTOS/ATLAS_MINI_LA_ROJA_FINAL_A-PERSPECTIVA3.png)
+
+
 ---
 
 Imagen tridimensional en Freecad para posibles ensamblados futuros de carcasas.
