@@ -1,12 +1,11 @@
 # Ficheros3D_STEP_EN_ATLAS Y mejoras en el diseño actual de "LA ROJA"
 Compartir ficheros STEP en tres dimensiones, para montajes de diseños ATLAS.
 
-El objetivo de ATLAS siempre ha sido poscionarse como una opción openhardware de aprendizaje tanto de microntroladores, SBCs, CPLDs, y FPGAS, en un rango de precios inferior a los 50€
+El objetivo de ATLAS siempre ha sido posicionarse como una opción openhardware, de aprendizaje tanto de microcontroladores, SBCs, CPLDs, y FPGAS, en un rango de precios inferior a los 50€.
 
-Otro de los objetivos de esta entrada es disponer de modelos tridimensionales para el ensamblaje de la placa I/O Board ATLAS Mini, así como mostrar la nueva míni.
+Objetivo específico de esta entrada, es disponer de modelos tridimensionales para el ensamblaje de la placa I/O Board ATLAS Mini, así como mostrar la nuevas modificaciones de I/O BOARD ATLAS MINI.
 
-Se muestra un diseño mejorado de la ROJA, en el pantallazo de Kicad, en la que se ve que hay soporte SIO en el bus SBC, el uso de dos mosfet BSS138 para tener una señal I2C en el bus de video digital, y no dañar placas con tensiones de referencia de +3V3, dado que el bus digital usa una tensión de +5V.
-
+El diseño mejorado de la ROJA, en el pantallazo indicado de Kicad,se ve que hay soporte SIO en el bus SBC, el uso de dos mosfet BSS138 para tener una señal I2C adaptada a +5V en el bus de video digital, con el objetivo de no dañar placas con tensiones de referencia de +3V3 en el bus SBC "PinSocket" de 2X20.
 
 ---
 
