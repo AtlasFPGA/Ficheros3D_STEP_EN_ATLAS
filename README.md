@@ -25,7 +25,7 @@ Imagen tridimensional en Freecad para posibles ensamblados futuros de carcasas.
 
 ---
 
-A.- Estoy ajustando los pares diferenciales para que sea iguales desde cada par dado que muchos de ellos estan alejados y no estan posicionados correctamente en la CYC1000, supongo que los diseñadores de nunca pensaron en que una placa CYCLONE 10 LP enfocada al usuario de arduino, se usaría para crear pares diferenciales compatibles con DVI a +3V3 porque la dispoción totalmente desordenada de los pines te hace pensar esto mismo.
+A.- Estoy ajustando los pares diferenciales para que sea iguales desde cada par dado que muchos de ellos estan alejados y no estan posicionados correctamente en la CYC1000, supongo que los diseñadores de la misma nunca pensaron en que una placa CYCLONE 10 LP enfocada al usuario de arduino, se usaría para crear pares diferenciales compatibles con DVI a +3V3 porque la dispoción totalmente desordenada de los pines te hace pensar esto mismo.
 
 B.- El video dital DVI posée una traducción de niveles de tensión de +3V3 <---> +5V en su bus I2C, mediante la configuración de un mosfet BSS138.
 
