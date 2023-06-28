@@ -1,0 +1,1 @@
+Se ha modificado el diseño en Freecad, para generar la disposicion de la CYC1000 igual a como se encuentra en ATLAS FPGA.
