@@ -1,0 +1,1 @@
+Mejora de la ATLAS mini añadiendo soporte I2C en el video digital así como compartir las señales del SIO con el bus 2X20 de la Raspberry.
