@@ -1,6 +1,8 @@
 # Ficheros3D_STEP_EN_ATLAS Y mejoras en el diseño actual de "LA ROJA"
 Compartir ficheros STEP en tres dimensiones, para montajes de diseños ATLAS.
 
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 El objetivo de ATLAS siempre ha sido posicionarse como una opción openhardware, de aprendizaje tanto de microcontroladores, SBCs, CPLDs, y FPGAS, en un rango de precios inferior a los 50€.
 
 Objetivo específico de esta entrada, es disponer de modelos tridimensionales para el ensamblaje de la placa I/O Board ATLAS Mini, así como mostrar la nuevas modificaciones de I/O BOARD ATLAS MINI.
